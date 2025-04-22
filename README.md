@@ -32,7 +32,7 @@ Giovani Ramos (Desenvolvedor principal, tester,aulixiar de escrita)
 ## 2. Introdução
 
 ### a. Visão Geral do Projeto
-O NaturaTech é um aplicativo educacional que ajuda pessoas leigas e pequenos produtores a cuidarem de plantas, flores, frutas e hortaliças. Ele oferece informações simples e acessíveis sobre o cultivo de cada planta, como tipo de solo, adubo, rega, época ideal de plantio, pragas e repelentes naturais.
+O NaturaTech é um aplicativo de orientação ao cultivoque ajuda pessoas leigas e pequenos produtores a cuidarem de plantas, flores, frutas e hortaliças. Ele oferece informações simples e acessíveis sobre o cultivo de cada planta, como tipo de solo, adubo, rega, época ideal de plantio, pragas e repelentes naturais.
 
 ### b. Público Alvo
 - Pessoas com pouco ou nenhum conhecimento sobre agricultura
@@ -149,7 +149,7 @@ Criar um aplicativo leve, funcional e educativo que auxilie usuários no cultivo
 - Não requer internet após instalação (modo offline)
 
 ### f. Licença de Uso e Distribuição
-- Licença livre para uso educacional e pessoal
+- Licença livre para uso pessoal e pequena empresa
 
 ---
 
