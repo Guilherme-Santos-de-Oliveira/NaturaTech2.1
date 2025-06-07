@@ -113,7 +113,7 @@ Criar um aplicativo leve, funcional e educativo que auxilie usuários no cultivo
 | Finalização            | 15/05/2025   | 17/08/2025  | Equipe               |
 
 ### b. Quadro Kanban
-- Ferramenta usada: Trello
+- Ferramenta  usada: Trello
 - Listas: A Fazer, Em Progresso, Concluído
 
 ### c. Relatório de Desempenho
@@ -165,7 +165,7 @@ Criar um aplicativo leve, funcional e educativo que auxilie usuários no cultivo
 
 **e. Modelagem do Sistema:**
 - Documento de Requisitos ✅
-- Documento de Casos de Uso ❌ *(em desenvolvimento)*
+- Documento de Casos de Uso ✅ *
 - Diagrama de Atividades ❌ *(em desenvolvimento)*
 - Diagrama de Sequência ❌ *(em desenvolvimento)*
 - Diagrama de Classes ❌ *(em desenvolvimento)*
