@@ -105,7 +105,7 @@ Criar um aplicativo leve, funcional e educativo que auxilie usuários no cultivo
 
 | Etapa                  | Início       | Fim         | Responsável         |
 |------------------------|--------------|-------------|----------------------|
-| Planejamento           | 10/04/2025   |    ---      | Equipe               |
+| Planejamento           | 10/04/2025   |  17/04/2025 | Equipe               |
 | Levantamento de dados  | 14/04/2025   |    ---      | Giovani              |
 | Design e protótipos    | 20/04/2025   | 23/04/2025  | Guilherme            |
 | Desenvolvimento        | 24/04/2025   |    ---      | Equipe               |
@@ -166,8 +166,8 @@ Criar um aplicativo leve, funcional e educativo que auxilie usuários no cultivo
 **e. Modelagem do Sistema:**
 - Documento de Requisitos ✅
 - Documento de Casos de Uso ✅ *
-- Diagrama de Atividades ❌ *(em desenvolvimento)*
-- Diagrama de Sequência ❌ *(em desenvolvimento)*
-- Diagrama de Classes ❌ *(em desenvolvimento)*
-- Projeto de Banco de Dados (DER) ❌ *(em desenvolvimento no Workbench)*
+- Diagrama de Atividades ✅
+- Diagrama de Sequência ✅
+- Diagrama de Classes ✅
+- Projeto de Banco de Dados  ❌ *(em desenvolvimento)*
 
