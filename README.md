@@ -3,7 +3,7 @@ README e Apresentação do Projeto
 
 Projeto: NaturaTech
 Versão: 2.0
-Data: 10/04/2025
+Data: 05/07/2025
 
 Alunos participantes:
 Guilherme Santos (Desenvolvedor de apoio, Designer, pesquisador,parte escrita do Tcc)
