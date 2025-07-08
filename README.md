@@ -110,7 +110,7 @@ Criar um aplicativo leve, funcional e educativo que auxilie usuários no cultivo
 | Design e protótipos    | 20/04/2025   | 23/04/2025  | Guilherme            |
 | Desenvolvimento        | 24/04/2025   |    ---      | Equipe               |
 | Testes                 | 11/05/2025   | 14/07/2025  | Guilherme            |
-| Finalização            | 15/05/2025   | 17/08/2025  | Equipe               |
+| Finalização            |    ---       |    ---      | Equipe               |
 
 ### b. Quadro Kanban
 - Ferramenta  usada: Trello
